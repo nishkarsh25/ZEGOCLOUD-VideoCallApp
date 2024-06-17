@@ -5,7 +5,16 @@ import VideoPage from './components/VideoPage'
 
 const App = () => {
   
-  
+  const router = createBrowserRouter([
+    {
+      path:"/",
+      element:<Home/>
+    },
+    {
+      path:"room/:id",
+      element:<VideoPage/>
+    }
+  ])
   
 }
 
