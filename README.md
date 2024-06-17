@@ -13,7 +13,7 @@ This project is a simple video chat application built with React and Vite, using
 
 ## Live Demo
 
-You can try out the live demo of the app [here](https://glittery-nougat-31ee8a.netlify.app/).
+You can try out the live demo of the app [here](https://zegocloud-videocallapp.onrender.com).
 
 ## Folder Structure
 
@@ -103,7 +103,7 @@ Before running the project, ensure you have the following installed:
 ### Joining a Room:
 
 - Click the "Join" button after entering the name.
-- You will be navigated to the video room URL (e.g., `http://localhost:3000/room/yourname`).
+- You will be navigated to the video room URL (e.g., `http://localhost:35173/room/yourname`).
 
 ### Video Room:
 
