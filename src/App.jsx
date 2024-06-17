@@ -15,7 +15,11 @@ const App = () => {
       element:<VideoPage/>
     }
   ])
-  
+  return (
+    <div className=''>
+      <RouterProvider router={router}/>
+    </div>
+  )
 }
 
 
