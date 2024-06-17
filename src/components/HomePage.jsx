@@ -6,7 +6,9 @@ const Home = () => {
 
   const navigate = useNavigate();
 
-  
+  const submitHandler = () => {
+    navigate(`/room/${input}`);
+  };
   
 };
 
