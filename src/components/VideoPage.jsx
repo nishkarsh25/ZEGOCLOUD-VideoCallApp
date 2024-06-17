@@ -45,4 +45,4 @@ const VideoPage = () => {
   return <div ref={myMeeting}></div>;
 };
 
-
+export default VideoPage;
